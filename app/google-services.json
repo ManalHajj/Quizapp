@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61211290750",
+    "project_id": "quizappdmrd",
+    "storage_bucket": "quizappdmrd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61211290750:android:8d978a13ef6dd598d43c2f",
+        "android_client_info": {
+          "package_name": "com.example.quizappdmrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61211290750-mcj25fa0uvaobq44quqlioc7jstei9tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SrESXiRFtEz12X8bQpW_SCP37GDrZi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61211290750-mcj25fa0uvaobq44quqlioc7jstei9tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
